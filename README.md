@@ -27,4 +27,4 @@
 下载地址：[NewPost.zip][1]
 
 
-  [1]: https://assets.wyaoyao.cn/usr/uploads/2019/04/1064027617.zip
+  [1]: https://github.com/iLay1678/NewPost/releases/download/v0.1/NewPost.zip

@@ -1,7 +1,7 @@
 <?php
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
 /**
- * 通过POSTh或GET发送文章
+ * 通过POST或GET发送文章
  * 
  * @package NewPost
  * @author ilay

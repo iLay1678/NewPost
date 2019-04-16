@@ -1,4 +1,5 @@
 *NewPost，可通过get或post请求发送文章的typecho插件*
+
 **使用说明：** 
 上传插件并启用，添加一位用户。用户组为编辑（为了安全）
 
@@ -7,6 +8,7 @@
 设置发表分类mid，例如某分类设置页url为 https://wei.bz/admin/category.php?mid=2 ，mid就等于2
 
 **通过post发表文章：** 
+
 **请求URL：** 
 - ` 你的网址/action/import `
   

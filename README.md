@@ -36,4 +36,4 @@ php请求参数举例
 下载地址：[NewPost.zip][1]
 
 
-  [1]: https://github.com/iLay1678/NewPost/releases/download/v0.1/NewPost.zip
+  [1]: https://github.com/iLay1678/NewPost/releases/download/v1.1/NewPost.zip

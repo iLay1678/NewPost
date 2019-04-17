@@ -5,7 +5,6 @@
 
 设置验证密钥key
 
-设置发表分类mid，例如某分类设置页url为 https://wei.bz/admin/category.php?mid=2 ，mid就等于2
 
 **通过post发表文章：** 
 

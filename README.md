@@ -1,6 +1,7 @@
 **NewPost，可通过get或post请求发送文章的typecho插件**
 
 **使用说明：** 
+
 上传插件并启用，添加一位用户。用户组为编辑（为了安全）
 
 设置验证密钥key
@@ -28,7 +29,7 @@
 
 php请求参数举例
 
-    array('title' => $title, 'text' => $text,'fieldnames'=>serialize(array('author','url')),'fieldtypes'=>serialize(array('str','str')),'fieldvalues'=>serialize(array($author,'0')),'mid'=>serialize(array("17","2")),'key' => "yanzhengmiyao");
+    array('title' => $title, 'text' => $text,'fieldnames'=>serialize(array('author','url')),'fieldtypes'=>serialize(array('str','str')),'fieldvalues'=>serialize(array($author,'0')),'mid'=>serialize(array(17,2)),'key' => "yanzhengmiyao");
 
 以上请求作用为向分类mid为17 2两个分类发表文章，并添加自定义字段author和url
 
